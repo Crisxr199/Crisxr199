@@ -1,0 +1,29 @@
+ Pre configuración de VisualStudio Code:
+
+ Ubicación: C:\Users\pc\AppData\Roaming\Code\User\settings.json (colocar en buscador de Visual StudioCode)
+{
+    "workbench.colorTheme": "Palenight Theme",
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.minimap.enabled": false
+}
+HTML5 Anotaciones:
+<html lang="es"> = Le permite identificar al navegador el idioma de nuestra pag web
+<meta charset="UTF-8"> Permite ver caracteres como la (ñ) y el (´) acento en paginas webs que algunos traductores no son capaces de traducir bien
+<meta name="viewport" content="width=device-width, intial-scale=1.0"> Permite establecer un tamaño determinado dependiendo de las dimensiones del dispositivo a base de 1.0
+textarea = crea una caja para hacer comentarios
+CSS Anotaciones: 
+
+Margin Auto : Centra los objetos de forma automatica de forma horizontal
+text aling center: Centra los objetos de forma automatica de fomra horizontald
+background-image : permite agregar una imagen
+background-repeat: no-repeat; (permite que la imagen o el elemento no se repita 
+background-color: Transparent; (permite hacer el fondo de la imagen sea transparente
+text aling justify = texto justificado (ordenado)
+letter-spacing = cambiar alguna propiedad del texto
+filter: drop-shadow = crea una sombra solo para imagenes .png sin fondo
+box-shadow = sombra para cajas
+text-shadow = sombras para texto
+border-radius = crea un borde redondeado para cualquier elemento
+
+6:16:50 / 1:00:01:02
