@@ -12,6 +12,20 @@ HTML5 Anotaciones:
 <meta charset="UTF-8"> Permite ver caracteres como la (ñ) y el (´) acento en paginas webs que algunos traductores no son capaces de traducir bien
 <meta name="viewport" content="width=device-width, intial-scale=1.0"> Permite establecer un tamaño determinado dependiendo de las dimensiones del dispositivo a base de 1.0
 textarea = crea una caja para hacer comentarios
+
+
+---------------------------------------------------------
+para hacer una lista de opciones: 
+
+<div>
+    <select name="" id="">
+        <option value="">Me amas</option>
+        <option value="">Me amas</option>
+        <option value="">Me amas</option>
+    </select>
+</div>
+---------------------------------------------------------
+
 CSS Anotaciones: 
 
 Margin Auto : Centra los objetos de forma automatica de forma horizontal
@@ -26,4 +40,4 @@ box-shadow = sombra para cajas
 text-shadow = sombras para texto
 border-radius = crea un borde redondeado para cualquier elemento
 
-6:16:50 / 1:00:01:02
+6:43:43 / 1:00:01:02
